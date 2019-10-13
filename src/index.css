@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100vh;
+  font-size: 16px;
+}
+@media screen and (max-width: 1250px) {
+  html {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 850px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+a,
+button {
+  opacity: 1;
+  text-decoration: none;
+  cursor: pointer;
+  color: #999;
+}
+
+a:hover,
+button:hover {
+  opacity: 0.8;
+}
+
+ul,
+nav {
+  list-style: none;
+}
+
+input,
+select,
+button {
+  outline: none;
+}
+
+option {
+  background-color: white;
+}

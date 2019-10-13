@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8.952" height="9.847" viewBox="0 0 8.952 9.847">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="8.952" height="9.847" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M1.343,9.847A1.344,1.344,0,0,1,0,8.5V2.238A1.344,1.344,0,0,1,1.343.9h.9V.448a.448.448,0,1,1,.9,0V.9H5.819V.448a.448.448,0,0,1,.9,0V.9h.9A1.344,1.344,0,0,1,8.952,2.238V8.5A1.344,1.344,0,0,1,7.609,9.847ZM.9,8.5a.448.448,0,0,0,.448.448H7.609A.448.448,0,0,0,8.057,8.5V4.476H.9ZM8.057,3.581V2.238a.448.448,0,0,0-.448-.448h-.9v.448a.448.448,0,0,1-.9,0V1.79H3.133v.448a.448.448,0,0,1-.9,0V1.79h-.9A.448.448,0,0,0,.9,2.238V3.581Z" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="10.743" height="10.743" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="calendar" clip-path="url(#clip-path)">
+    <path id="Combined_Shape-2" data-name="Combined Shape" d="M1.343,9.847A1.344,1.344,0,0,1,0,8.5V2.238A1.344,1.344,0,0,1,1.343.9h.9V.448a.448.448,0,1,1,.9,0V.9H5.819V.448a.448.448,0,0,1,.9,0V.9h.9A1.344,1.344,0,0,1,8.952,2.238V8.5A1.344,1.344,0,0,1,7.609,9.847ZM.9,8.5a.448.448,0,0,0,.448.448H7.609A.448.448,0,0,0,8.057,8.5V4.476H.9ZM8.057,3.581V2.238a.448.448,0,0,0-.448-.448h-.9v.448a.448.448,0,0,1-.9,0V1.79H3.133v.448a.448.448,0,0,1-.9,0V1.79h-.9A.448.448,0,0,0,.9,2.238V3.581Z" fill="#fff"/>
+    <g clip-path="url(#clip-path-2)">
+      <g id="COLOR_black" data-name="COLOR/ black" transform="translate(-0.895 -0.448)" clip-path="url(#clip-path-3)">
+        <rect id="Rectangle" width="10.743" height="10.743" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

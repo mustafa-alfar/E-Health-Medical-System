@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4.533" height="9.886" viewBox="0 0 4.533 9.886">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="4.533" height="9.886" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Shape" d="M2.266,9.886A2.266,2.266,0,0,1,.825,5.873V1.442a1.441,1.441,0,1,1,2.883,0V5.873A2.266,2.266,0,0,1,2.266,9.886Zm0-9.063a.619.619,0,0,0-.618.618V6.08a.411.411,0,0,1-.183.343,1.442,1.442,0,1,0,1.6,0,.411.411,0,0,1-.183-.343V1.442A.618.618,0,0,0,2.266.824Z" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="9.886" height="9.886" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="thermometer" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Shape-2" data-name="Shape" d="M2.266,9.886A2.266,2.266,0,0,1,.825,5.873V1.442a1.441,1.441,0,1,1,2.883,0V5.873A2.266,2.266,0,0,1,2.266,9.886Zm0-9.063a.619.619,0,0,0-.618.618V6.08a.411.411,0,0,1-.183.343,1.442,1.442,0,1,0,1.6,0,.411.411,0,0,1-.183-.343V1.442A.618.618,0,0,0,2.266.824Z" transform="translate(0 0)" fill="#fff"/>
+    <g transform="translate(0 0)" clip-path="url(#clip-path-2)">
+      <g id="COLOR_black" data-name="COLOR/ black" transform="translate(-2.471 0)" clip-path="url(#clip-path-3)">
+        <rect id="Rectangle" width="9.886" height="9.886" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

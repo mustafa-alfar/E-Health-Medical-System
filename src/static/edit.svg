@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.3" height="12.3" viewBox="0 0 12.3 12.3">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="12.3" height="12.3" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M9.5,12.3H1.677A1.679,1.679,0,0,1,0,10.623V2.8A1.679,1.679,0,0,1,1.677,1.118H4.663a.559.559,0,1,1,0,1.118H1.677a.56.56,0,0,0-.559.56v7.827a.56.56,0,0,0,.559.559H9.5a.56.56,0,0,0,.559-.559V7.637a.559.559,0,1,1,1.118,0v2.985A1.679,1.679,0,0,1,9.5,12.3ZM6.15,8.945H3.914a.56.56,0,0,1-.559-.559V6.15a.562.562,0,0,1,.164-.395L9.109.163a.56.56,0,0,1,.791,0L12.136,2.4a.56.56,0,0,1,0,.79L6.545,8.781A.562.562,0,0,1,6.15,8.945ZM9.5,1.349h0L4.473,6.381V7.827H5.918L10.95,2.8,9.5,1.349Z" transform="translate(0 0)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="13.418" height="13.418" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="edit" clip-path="url(#clip-path)">
+    <path id="Combined_Shape-2" data-name="Combined Shape" d="M9.5,12.3H1.677A1.679,1.679,0,0,1,0,10.623V2.8A1.679,1.679,0,0,1,1.677,1.118H4.663a.559.559,0,1,1,0,1.118H1.677a.56.56,0,0,0-.559.56v7.827a.56.56,0,0,0,.559.559H9.5a.56.56,0,0,0,.559-.559V7.637a.559.559,0,1,1,1.118,0v2.985A1.679,1.679,0,0,1,9.5,12.3ZM6.15,8.945H3.914a.56.56,0,0,1-.559-.559V6.15a.562.562,0,0,1,.164-.395L9.109.163a.56.56,0,0,1,.791,0L12.136,2.4a.56.56,0,0,1,0,.79L6.545,8.781A.562.562,0,0,1,6.15,8.945ZM9.5,1.349h0L4.473,6.381V7.827H5.918L10.95,2.8,9.5,1.349Z" transform="translate(0 0)" fill="#fff"/>
+    <g clip-path="url(#clip-path-2)">
+      <g id="COLOR_black" data-name="COLOR/ black" transform="translate(-0.559 -0.559)" clip-path="url(#clip-path-3)">
+        <rect id="Rectangle" width="13.418" height="13.418" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
