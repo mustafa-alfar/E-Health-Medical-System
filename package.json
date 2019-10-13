@@ -2,6 +2,7 @@
   "name": "mustafa-task",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://mustafa-alfar.github.io/E-Health-Medical-System",
   "dependencies": {
     "@emotion/core": "^10.0.17",
     "@emotion/styled": "^10.0.17",
@@ -16,7 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -39,6 +42,7 @@
     "@types/reach__router": "^1.2.5",
     "@types/react": "^16.9.5",
     "@types/react-dom": "^16.9.1",
-    "@types/react-select": "^3.0.5"
+    "@types/react-select": "^3.0.5",
+    "gh-pages": "^2.1.1"
   }
 }
